@@ -1,0 +1,6 @@
+{
+  "name": "StoryForge — PRD to GitLab Issue Architect",
+  "description": "AI-powered PRD analyzer and GitLab User Story generator with Gemini Gem knowledge base impact analysis, missing requirement detection, FE/BE splitting, INVEST validation, and automated priority tagging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
